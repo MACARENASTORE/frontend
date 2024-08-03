@@ -1,0 +1,26 @@
+/* globals.css */
+
+/* General */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f9; /* Color de fondo claro */
+  color: #333; /* Color de texto oscuro para legibilidad */
+}
+
+a {
+  color: #007bff; /* Color del enlace principal */
+}
+
+a:hover {
+  color: #0056b3; /* Color del enlace al pasar el ratón */
+}
+
+/* Estilos específicos del tema escolar */
+.header, .footer {
+  background-color: #004085; /* Color de fondo oscuro para cabecera y pie de página */
+  color: #ffffff; /* Color de texto blanco */
+}
+
+.container {
+  padding: 20px;
+}
